@@ -1,0 +1,21 @@
+# Lista de testing para saber lo que funciona medio raro del juego o lo que podríamos cambiar
+
+1. Al tocar 's' y estar al fondo de una escalera, el personaje 'clippea' para abajo, lo que puede generar un game over en el piso inferior
+
+2. El puntaje del jugador escala siempre que no esté tocando el piso inferior, el juego 
+
+3. Los barriles se acumulan en el fondo, deberían desaparecer por uno de los costados del mapa
+
+
+# Mejorías, calidad de vida, prolijidad
+1. Tenemos que poner los sprites de los personajes y del mapa, recomendado sacar directo del juego o darle una vuelta nosotros mismos, es pixelart, no debe ser muy complicado hacer una animación con dos sprites
+
+2. Tenemos que hacer el resto de niveles
+
+3. Pequeña animación al morir, ahora mismo volvés al principio de inmediato, la transición ayudaría.
+
+4. Pequeña animación al iniciar
+
+5. Sonido, música, estaría bueno probar como (urgencia menor, en caso de estar sobrados de tiempo y apuntar al diez viene bien)
+
+6. 
